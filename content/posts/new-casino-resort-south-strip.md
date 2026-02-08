@@ -5,10 +5,6 @@ draft: false
 summary: "A billion-dollar resort project is officially underway on the south end of the Las Vegas Strip."
 categories: ["News"]
 tags: ["development", "casinos", "strip", "construction"]
-cover:
-  image: ""
-  alt: "Construction on the Las Vegas Strip"
-  hidden: false
 ---
 
 The Las Vegas skyline is about to change again. Construction has officially begun on a new mega-resort at the south end of the Strip.

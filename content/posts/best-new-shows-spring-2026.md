@@ -5,10 +5,6 @@ draft: false
 summary: "From residencies to limited-run spectacles, here's what's lighting up Las Vegas stages this season."
 categories: ["Shows"]
 tags: ["entertainment", "strip", "residencies", "spring 2026"]
-cover:
-  image: ""
-  alt: "Las Vegas Strip at night"
-  hidden: false
 ---
 
 Las Vegas never slows down, and this spring is shaping up to be one of the most exciting seasons for live entertainment in years.

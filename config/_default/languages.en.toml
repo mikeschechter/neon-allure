@@ -1,0 +1,10 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Neon Allure"
+
+[params]
+  description = "Your insider guide to Las Vegas events, entertainment, nightlife, and news"
+
+[params.author]
+  name = "Neon Allure"

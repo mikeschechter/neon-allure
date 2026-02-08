@@ -1,0 +1,18 @@
+baseURL = "https://www.neonallure.com/"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+theme = "blowfish"
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[sitemap]
+  changeFreq = "daily"
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

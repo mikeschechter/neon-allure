@@ -5,10 +5,6 @@ draft: false
 summary: "A massive three-day music festival is coming to downtown Las Vegas this fall, featuring over 50 artists."
 categories: ["Events"]
 tags: ["festivals", "music", "downtown", "concerts"]
-cover:
-  image: ""
-  alt: "Music festival crowd"
-  hidden: false
 ---
 
 Downtown Las Vegas is about to get even louder. A brand-new three-day music festival has just been announced, and it's set to take over the Fremont East district this October.

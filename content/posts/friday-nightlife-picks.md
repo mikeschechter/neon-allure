@@ -5,10 +5,6 @@ draft: false
 summary: "Our curated guide to the hottest clubs, lounges, and late-night spots to hit this weekend in Vegas."
 categories: ["Nightlife"]
 tags: ["clubs", "lounges", "weekend", "nightlife"]
-cover:
-  image: ""
-  alt: "Las Vegas nightclub"
-  hidden: false
 ---
 
 Whether you're a local looking for a new haunt or a visitor ready to experience Vegas after dark, we've got you covered.

@@ -1,0 +1,24 @@
+[[main]]
+  name = "Events"
+  pageRef = "categories/events"
+  weight = 10
+
+[[main]]
+  name = "Nightlife"
+  pageRef = "categories/nightlife"
+  weight = 20
+
+[[main]]
+  name = "Shows"
+  pageRef = "categories/shows"
+  weight = 30
+
+[[main]]
+  name = "News"
+  pageRef = "categories/news"
+  weight = 40
+
+[[main]]
+  name = "Search"
+  pageRef = "search"
+  weight = 50
