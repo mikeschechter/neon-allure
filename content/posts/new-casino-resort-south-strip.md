@@ -1,7 +1,7 @@
 ---
 title: "New Casino Resort Breaking Ground on the South Strip"
 date: 2026-02-05
-draft: false
+draft: true
 summary: "A billion-dollar resort project is officially underway on the south end of the Las Vegas Strip."
 categories: ["News"]
 tags: ["development", "casinos", "strip", "construction"]
