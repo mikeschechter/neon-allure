@@ -1,7 +1,7 @@
 ---
 title: "Friday Night Out: Top Nightlife Picks This Weekend"
 date: 2026-02-07
-draft: false
+draft: true
 summary: "Our curated guide to the hottest clubs, lounges, and late-night spots to hit this weekend in Vegas."
 categories: ["Nightlife"]
 tags: ["clubs", "lounges", "weekend", "nightlife"]
