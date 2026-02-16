@@ -2,6 +2,7 @@
 title: "The Best New Shows Coming to the Strip This Spring"
 date: 2026-02-08
 draft: true
+description: "From residencies to limited-run spectacles, here's what's lighting up Las Vegas stages this season."
 summary: "From residencies to limited-run spectacles, here's what's lighting up Las Vegas stages this season."
 categories: ["Shows"]
 tags: ["entertainment", "strip", "residencies", "spring 2026"]

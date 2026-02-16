@@ -3,6 +3,7 @@ title: "Vegas This Weekend: Super Bowl Hotel Bargains, Steakhouse Showdowns, and
 date: 2026-02-08T06:55:47+00:00
 draft: false
 description: "Super Bowl weekend brings shockingly low hotel rates, steakhouse secrets, a Mirage legacy, wild eating contests, and downtown drama. The Strip’s pulse, unfiltered."
+summary: "Super Bowl weekend brings shockingly low hotel rates, steakhouse secrets, a Mirage legacy, wild eating contests, and downtown drama. The Strip’s pulse, unfiltered."
 tags: ["las vegas", "super bowl", "hotels", "dining", "nightlife"]
 categories: ["vegas", "events"]
 ---

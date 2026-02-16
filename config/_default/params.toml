@@ -4,6 +4,7 @@ autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = false
+enableStructuredBreadcrumbs = true
 
 [homepage]
   layout = "profile"
