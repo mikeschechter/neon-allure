@@ -2,6 +2,7 @@ baseURL = "https://www.neonallure.com/"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 theme = "blowfish"
+timeZone = "America/Los_Angeles"
 
 [pagination]
   pagerSize = 10
