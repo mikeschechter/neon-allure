@@ -4,18 +4,18 @@
   weight = 10
 
 [[main]]
-  name = "Nightlife"
-  pageRef = "categories/nightlife"
+  name = "Vegas"
+  pageRef = "categories/vegas"
   weight = 20
 
 [[main]]
-  name = "Shows"
-  pageRef = "categories/shows"
+  name = "Vegas Insider"
+  pageRef = "categories/vegas-insider"
   weight = 30
 
 [[main]]
-  name = "News"
-  pageRef = "categories/news"
+  name = "Vegas Life"
+  pageRef = "categories/vegas-life"
   weight = 40
 
 [[main]]
