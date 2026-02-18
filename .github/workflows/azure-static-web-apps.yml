@@ -27,6 +27,9 @@ jobs:
       - name: Build Hugo
         run: hugo --minify
 
+      - name: Copy Static Web App config
+        run: cp staticwebapp.config.json public/
+
       - name: Deploy to Azure Static Web Apps
         uses: Azure/static-web-apps-deploy@v1
         with:
