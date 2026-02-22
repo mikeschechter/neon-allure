@@ -59,3 +59,6 @@ enableStructuredBreadcrumbs = true
   showLikes = false
   showTableOfContents = false
   cardView = false
+
+[footer]
+  showThemeAttribution = false
