@@ -1,0 +1,11 @@
+{{/* SEO: Add noindex to pages that create duplicate content issues */}}
+
+{{/* Pagination pages beyond page 1 */}}
+{{ if findRE `/page/\d+/` .RelPermalink }}
+  <meta name="robots" content="noindex, follow">
+{{ end }}
+
+{{/* Taxonomy list pages (e.g., /tags/, /categories/) and term pages (e.g., /tags/las-vegas/) */}}
+{{ if and (or (eq .Kind "taxonomy") (eq .Kind "term")) (not .Params.robots) }}
+  <meta name="robots" content="noindex, follow">
+{{ end }}
