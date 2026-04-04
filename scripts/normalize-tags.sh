@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # Normalize tags and categories in Hugo post front matter.
-# Tags:       lowercase, kebab-case, plural countable nouns, merge synonyms.
+# Tags:       lowercase, spaced, plural countable nouns, merge synonyms.
 # Categories: restricted to allowed set, merge unofficial → nearest match.
 # Exits 0 if no changes, 1 if files were modified.
 
@@ -24,7 +24,7 @@ TAG_SYNONYMS=(
   "hotel=hotels"
   "lounge=lounges"
   "club=clubs"
-  "strip=the-strip"
+  "strip=the strip"
 )
 
 TAG_REMOVE=(
@@ -83,9 +83,15 @@ normalize_tag() {
     return
   fi
 
-  tag=$(echo "$tag" | sed 's/ /-/g')
-  tag=$(echo "$tag" | sed 's/[^a-z0-9-]//g')
-  tag=$(echo "$tag" | sed 's/--*/-/g; s/^-//; s/-$//')
+  # Convert hyphens to spaces (except known hyphenated terms like k-pop)
+  tag=$(echo "$tag" | sed 's/-/ /g')
+  tag=$(echo "$tag" | sed 's/k pop/k-pop/g')
+
+  # Remove any characters that aren't lowercase alphanumeric, hyphens, or spaces
+  tag=$(echo "$tag" | sed 's/[^a-z0-9 -]//g')
+
+  # Collapse multiple spaces
+  tag=$(echo "$tag" | sed 's/  */ /g; s/^ //; s/ $//')
 
   echo "$tag"
 }

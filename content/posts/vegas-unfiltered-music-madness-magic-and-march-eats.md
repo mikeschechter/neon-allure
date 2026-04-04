@@ -4,7 +4,7 @@ date: 2026-03-05T07:52:53+00:00
 draft: false
 description: "Vegas is bursting with live music, sports tournaments, family festivals, new eats, and classic Strip antics. Here’s what’s actually worth your attention."
 summary: "Forget the brochure: Vegas is hitting peak weird with EDM at Omnia, NCAA chaos, retro Circus Circus, and viral food trucks. Dive in, dodge the hype."
-tags: ["music", "sports", "dining", "the-strip"]
+tags: ["music", "sports", "dining", "the strip"]
 categories: ["events"]
 ---
 
