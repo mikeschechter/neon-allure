@@ -24,6 +24,17 @@ jobs:
           hugo-version: "latest"
           extended: true
 
+      - name: Normalize tags
+        run: |
+          bash scripts/normalize-tags.sh || true
+          if ! git diff --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add content/posts/
+            git commit -m "Auto-normalize tags"
+            git push
+          fi
+
       - name: Build Hugo
         run: hugo --minify
 
