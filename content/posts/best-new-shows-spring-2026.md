@@ -5,7 +5,7 @@ draft: true
 description: "From residencies to limited-run spectacles, here's what's lighting up Las Vegas stages this season."
 summary: "From residencies to limited-run spectacles, here's what's lighting up Las Vegas stages this season."
 categories: ["Shows"]
-tags: ["entertainment", "strip", "residencies", "spring 2026"]
+tags: ["the-strip", "residencies"]
 ---
 
 Las Vegas never slows down, and this spring is shaping up to be one of the most exciting seasons for live entertainment in years.

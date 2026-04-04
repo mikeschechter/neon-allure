@@ -4,7 +4,7 @@ date: 2026-02-22T06:49:55+00:00
 draft: true
 description: "Vegas delivers knockout boxing, legendary rock, neighborhood pride, and wild attractions—all with ticket links and local flavor. Get the real scoop, not just the brochure."
 summary: "From title fights and classic residencies to cultural celebrations and culinary finds, Vegas keeps the adrenaline pumping. This daily roundup dives into ticket rushes, iconic performances, and the physical details locals actually notice."
-tags: ["boxing", "music", "community", "attractions", "food"]
+tags: ["boxing", "music", "community", "attractions", "dining"]
 categories: ["events", "culture"]
 ---
 

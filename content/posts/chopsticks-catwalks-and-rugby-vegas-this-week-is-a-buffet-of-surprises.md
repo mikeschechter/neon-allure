@@ -3,7 +3,7 @@ title: "Chopsticks, Catwalks, and Rugby: Vegas This Week is a Buffet of Surprise
 date: 2026-02-16T01:20:27+00:00
 draft: false
 description: "Chinatown explodes with restaurants, rugby crashes the Strip, and Vegas lounges keep the cool alive. Here’s what’s real, what’s hot, and who’s actually winning Vegas this week."
-tags: ["las vegas", "chinatown", "music residencies", "sports", "dining"]
+tags: ["chinatown", "residencies", "sports", "dining"]
 categories: ["vegas insider", "events"]
 ---
 

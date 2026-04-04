@@ -4,7 +4,7 @@ date: 2026-02-18T07:11:01+00:00
 draft: false
 description: "Las Vegas ignites this week with Lunar New Year traditions, supper club reinventions, headline DJ sets, marathon madness, and comedy for a cause. The spectacle is real, and every event comes with receipts."
 summary: "Lunar New Year parades, immersive dining, TAO DJ residencies, Strip-side marathons, and comedy nights for first responders — Vegas is serving up everything but dull. Dive in for the sharpest local tips, links, and snark."
-tags: ["lunar new year", "vegas dining", "nightlife", "comedy", "events"]
+tags: ["lunar-new-year", "dining", "nightlife", "comedy"]
 categories: ["events", "nightlife"]
 ---
 

@@ -4,7 +4,7 @@ date: 2026-02-17T07:24:59+00:00
 draft: false
 description: "The Eagles close out at Sphere, nostalgia residencies battle ticket sticker shock, and Allegiant Stadium packs half a million. Meanwhile, downtown delivers the fun for less, and the dining scene refuses to sit still."
 summary: "Eagles wrap up at Sphere, Strip residencies spark fee outrage, and Allegiant Stadium keeps the crowds coming. Dive into a week of big shows, smart eats, and wallet-friendly fun—because not everything in Vegas needs to cost a fortune."
-tags: ["vegas", "sphere", "concerts", "dining", "events"]
+tags: ["sphere", "concerts", "dining"]
 categories: ["events", "vegas life"]
 ---
 

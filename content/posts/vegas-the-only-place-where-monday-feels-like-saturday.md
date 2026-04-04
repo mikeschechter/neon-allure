@@ -4,7 +4,7 @@ date: 2026-03-01T06:29:37+00:00
 draft: false
 description: "From iconic concerts to late-night EDM, Vegas is serving up a buffet of experiences. Here’s your inside track on the week’s best events, music, restaurants, nightlife, and sports."
 summary: "Vegas never sleeps, and neither do its events. Dive into top shows, new eats, wild parties, award-winning favorites, and sports buzz—plus a few surprises you won’t find in a tourist brochure."
-tags: ["vegas", "events", "nightlife", "restaurants", "sports"]
+tags: ["nightlife", "dining", "sports", "music"]
 categories: ["entertainment", "local"]
 ---
 

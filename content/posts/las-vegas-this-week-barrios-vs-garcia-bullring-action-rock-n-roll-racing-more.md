@@ -4,7 +4,7 @@ date: 2026-02-20T07:21:40+00:00
 draft: false
 description: "From the Barrios vs. Garcia boxing showdown to Rock ‘n’ Roll road closures, Bullring racing, and fresh Vegas dining hacks—here’s what’s actually worth your time (and money) in Las Vegas this week."
 summary: "Boxing drama, street races, free celebrations, and residency surprises. Whether you want tickets, a cheap bite, or ways to dodge road closures, this week’s Vegas guide cuts through the hype."
-tags: ["las vegas", "events", "boxing", "dining", "shows"]
+tags: ["boxing", "dining", "sports"]
 categories: ["events", "vegas insider"]
 ---
 

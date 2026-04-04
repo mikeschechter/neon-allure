@@ -5,7 +5,7 @@ draft: true
 description: "Our curated guide to the hottest clubs, lounges, and late-night spots to hit this weekend in Vegas."
 summary: "Our curated guide to the hottest clubs, lounges, and late-night spots to hit this weekend in Vegas."
 categories: ["Nightlife"]
-tags: ["clubs", "lounges", "weekend", "nightlife"]
+tags: ["clubs", "lounges", "nightlife"]
 ---
 
 Whether you're a local looking for a new haunt or a visitor ready to experience Vegas after dark, we've got you covered.

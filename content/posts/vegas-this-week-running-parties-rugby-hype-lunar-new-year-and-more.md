@@ -4,7 +4,7 @@ date: 2026-02-19T19:50:17+00:00
 draft: false
 description: "The Strip is buzzing with a running festival, rugby fever, Lunar New Year dragons, Omega Mart’s wild anniversary, and a concert lineup that’ll melt your face—or at least your wallet."
 summary: "This week in Vegas, the city pulls out all the stops: a wild running party on the Strip, international rugby madness, dragon dances, Omega Mart’s surreal birthday, and a concert calendar with something for everyone."
-tags: ["vegas", "events", "music", "food", "attractions"]
+tags: ["music", "dining", "attractions", "sports"]
 categories: ["events", "vegas"]
 ---
 

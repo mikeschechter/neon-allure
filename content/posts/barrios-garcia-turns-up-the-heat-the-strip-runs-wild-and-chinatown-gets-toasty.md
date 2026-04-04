@@ -4,7 +4,7 @@ date: 2026-02-22T06:59:16+00:00
 draft: false
 description: "From high-octane boxing nights to midnight marathons on the Strip, Westside block parties, and Chinatown’s sando craze, Vegas is in its unpredictable, over-caffeinated prime."
 summary: "Big-fight energy, runners clogging the Strip, Chinatown’s sando lines, and more: Here’s what Sin City actually felt like this week. Not everything is overhyped… but a few things are."
-tags: ["las vegas", "boxing", "music", "food", "events"]
+tags: ["boxing", "music", "dining"]
 categories: ["events", "vegas life"]
 ---
 
