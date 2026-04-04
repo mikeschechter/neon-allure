@@ -4,7 +4,7 @@ date: 2026-02-16T01:20:27+00:00
 draft: false
 description: "Chinatown explodes with restaurants, rugby crashes the Strip, and Vegas lounges keep the cool alive. Here’s what’s real, what’s hot, and who’s actually winning Vegas this week."
 tags: ["chinatown", "residencies", "sports", "dining"]
-categories: ["vegas insider", "events"]
+categories: ["events"]
 ---
 
 Vegas doesn’t do “slow news weeks.” Even on a so-called quiet February stretch, the city’s feeding frenzy never stops. There’s always a new hotspot, a dead mall resurrected, or an international sports league elbowing its way into the Strip’s calendar. This week? It’s all about culinary one-upmanship, fashionistas with expense accounts, rugby fans on a bender, and crooners who refuse to age out. Let’s break down the week’s most interesting (and occasionally absurd) Vegas moments.

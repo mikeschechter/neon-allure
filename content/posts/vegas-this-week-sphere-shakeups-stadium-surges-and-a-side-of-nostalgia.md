@@ -5,7 +5,7 @@ draft: false
 description: "The Eagles close out at Sphere, nostalgia residencies battle ticket sticker shock, and Allegiant Stadium packs half a million. Meanwhile, downtown delivers the fun for less, and the dining scene refuses to sit still."
 summary: "Eagles wrap up at Sphere, Strip residencies spark fee outrage, and Allegiant Stadium keeps the crowds coming. Dive into a week of big shows, smart eats, and wallet-friendly fun—because not everything in Vegas needs to cost a fortune."
 tags: ["sphere", "concerts", "dining"]
-categories: ["events", "vegas life"]
+categories: ["events"]
 ---
 
 Vegas isn’t subtle. This week, it’s a neon fever dream of endings, beginnings, and the kind of ticket prices that make you question your life choices. The Sphere’s morphing again, the Strip is thick with nostalgia tours, and Allegiant Stadium is quietly propping up the city’s visitor numbers while the Strip itself tries not to look desperate. Meanwhile, downtown is where you actually find a seat and a drink without mortgaging your future. Let’s get into it before something else opens, closes, or gets rebranded.

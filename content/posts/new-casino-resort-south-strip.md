@@ -4,7 +4,7 @@ date: 2026-02-05
 draft: true
 description: "A billion-dollar resort project is officially underway on the south end of the Las Vegas Strip."
 summary: "A billion-dollar resort project is officially underway on the south end of the Las Vegas Strip."
-categories: ["News"]
+categories: ["news"]
 tags: ["development", "casinos", "the-strip", "construction"]
 ---
 

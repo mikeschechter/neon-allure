@@ -4,7 +4,7 @@ date: 2026-02-06
 draft: true
 description: "A massive three-day music festival is coming to downtown Las Vegas this fall, featuring over 50 artists."
 summary: "A massive three-day music festival is coming to downtown Las Vegas this fall, featuring over 50 artists."
-categories: ["Events"]
+categories: ["events"]
 tags: ["festivals", "music", "downtown", "concerts"]
 ---
 

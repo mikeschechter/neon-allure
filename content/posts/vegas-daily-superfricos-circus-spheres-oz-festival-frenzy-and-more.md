@@ -5,7 +5,7 @@ draft: false
 description: "Las Vegas serves up Superfrico’s wild dinners, Sphere’s Wizard of Oz, free fests, killer hotel deals, and nightlife hacks you’ll actually use."
 summary: "Superfrico’s roving performers, Sphere’s Wizard of Oz, free city fests, and last-chance JLo shows—Vegas this weekend isn’t phoning it in. Here’s the real intel."
 tags: ["dining", "nightlife", "hotels", "attractions"]
-categories: ["vegas", "entertainment"]
+categories: ["events"]
 ---
 
 ## Superfrico: Where Dinner Gets Weird (in a Good Way)

@@ -4,7 +4,7 @@ date: 2026-02-07
 draft: true
 description: "Our curated guide to the hottest clubs, lounges, and late-night spots to hit this weekend in Vegas."
 summary: "Our curated guide to the hottest clubs, lounges, and late-night spots to hit this weekend in Vegas."
-categories: ["Nightlife"]
+categories: ["nightlife"]
 tags: ["clubs", "lounges", "nightlife"]
 ---
 

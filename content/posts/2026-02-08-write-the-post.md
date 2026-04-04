@@ -5,7 +5,7 @@ draft: false
 description: "Super Bowl weekend brings shockingly low hotel rates, steakhouse secrets, a Mirage legacy, wild eating contests, and downtown drama. The Strip’s pulse, unfiltered."
 summary: "Super Bowl weekend brings shockingly low hotel rates, steakhouse secrets, a Mirage legacy, wild eating contests, and downtown drama. The Strip’s pulse, unfiltered."
 tags: ["super-bowl", "hotels", "dining", "nightlife"]
-categories: ["vegas", "events"]
+categories: ["events"]
 ---
 
 ## Super Bowl Weekend Accommodation Trends: Steals, not Splurges

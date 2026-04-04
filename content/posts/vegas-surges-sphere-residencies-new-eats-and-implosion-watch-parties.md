@@ -5,7 +5,7 @@ draft: false
 description: "Vegas is buzzing with Sphere residencies, celebrity shows, wild new restaurants, pop culture cons, and even casino implosions. The city never sleeps—here’s what’s driving the buzz."
 summary: "Sphere adds Backstreet Boys, J.Lo hits the stage, restaurants debut, and Vegas hosts wild conventions and demolitions. It’s a city on the move."
 tags: ["sphere", "residencies", "dining", "pop-culture"]
-categories: ["events", "entertainment"]
+categories: ["events"]
 ---
 
 ## Sphere Is Taking Over: Residencies, LEDs, and the Next Vegas Era

@@ -5,7 +5,7 @@ draft: false
 description: "Vegas is bursting with live music, sports tournaments, family festivals, new eats, and classic Strip antics. Here’s what’s actually worth your attention."
 summary: "Forget the brochure: Vegas is hitting peak weird with EDM at Omnia, NCAA chaos, retro Circus Circus, and viral food trucks. Dive in, dodge the hype."
 tags: ["music", "sports", "dining", "the-strip"]
-categories: ["entertainment", "events"]
+categories: ["events"]
 ---
 
 ## Big Beats and Mockumentary Madness: Where Vegas Actually Sounds Fun
