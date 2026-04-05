@@ -4,8 +4,8 @@ date: 2026-04-05T04:01:24+00:00
 draft: false
 description: "From tacos at Desert Breeze to no-ring wrestling at Dive Bar, Las Vegas is rolling out street fests, club nights, and offbeat cultural events for every taste."
 summary: "Las Vegas is serving up tacos, 90s nostalgia, wild wrestling, and nightlife that never sleeps. Here’s what’s on the menu, plus a few surprises you won’t see on the billboards."
-tags: ["las vegas", "festivals", "nightlife", "food", "entertainment"]
-categories: ["events", "vegas insider"]
+tags: ["festivals", "nightlife", "dining"]
+categories: ["events"]
 ---
 
 ## Tacos, Tamales, and a Side of Chaos
@@ -50,4 +50,3 @@ Casino news isn’t usually headline material unless you’re an executive, but 
 
 ## One Last Roll
 
-Food, music, wrestling, and business deals behind closed doors. That’s Vegas: always a little chaotic, never boring, sometimes you leave smelling like tamales. If you’re looking for a slow night, you’re in the wrong city.
