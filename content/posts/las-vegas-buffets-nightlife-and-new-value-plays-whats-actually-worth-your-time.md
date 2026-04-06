@@ -4,8 +4,8 @@ date: 2026-04-06T04:00:41+00:00
 draft: false
 description: "Vegas is serving up open buffets, packed nightclubs, all-inclusive deals, wild water shows, and family attractions—plus soul food pop-ups and sports drama. Here’s what’s hot."
 summary: "Open Strip buffets, new all-inclusive packages, and late-night Omnia crowds anchor Vegas’ energy. From immersive shows to soul food pop-ups and rail upgrades, here’s the scene."
-tags: ["las vegas", "buffets", "nightlife", "family", "food", "sports"]
-categories: ["vegas", "events"]
+tags: ["buffets", "nightlife", "family", "dining", "sports"]
+categories: ["events"]
 ---
 
 ## The Buffets That Still Matter: Strip Staples Holding the Line
@@ -68,4 +68,3 @@ Vegas keeps you guessing, but sometimes the best part is the thing nobody brags 
 
 ---
 
-The city is buzzing, the buffets are holding strong, and there’s more value and spectacle than you can fit in one trip. Vegas isn’t subtle, but it’s always surprising.
