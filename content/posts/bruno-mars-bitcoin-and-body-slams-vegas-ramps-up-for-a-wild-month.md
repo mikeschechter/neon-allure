@@ -4,8 +4,8 @@ date: 2026-04-07T04:00:37+00:00
 draft: false
 description: "Bruno Mars gets his own parade, Vegas hosts the world's biggest Bitcoin event, and wrestling, EDM, and indie shows heat up the Strip. The city’s chaos is peaking—in the best way."
 summary: "Bruno Mars gets a street named after him with a Strip parade, Bitcoin takes over, and from wrestling to exclusive Roblox events, Vegas is buzzing. Here’s what’s really worth your attention."
-tags: ["vegas", "events", "music", "wrestling", "tech"]
-categories: ["events", "vegas"]
+tags: ["music", "wrestling", "tech"]
+categories: ["events"]
 ---
 
 ## Bruno Mars Takes Over the Strip, Literally
@@ -46,4 +46,3 @@ Let’s break style for a second. This Roblox thing? Private invite, locked door
 
 ## Vegas: Still Doing Too Much, and That’s the Point
 
-The city has a parade for Bruno, a horror-themed wrestling match, and thousands of Bitcoiners about to explain things nobody asked for. There’s a show for every niche and a secret party you probably can’t get into. Next time someone says Vegas is “losing its edge,” just show them the week’s lineup. The chaos is the feature, not the bug.
