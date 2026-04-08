@@ -1,6 +1,7 @@
 colorScheme = "blowfish"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
+defaultSocialImage = "images/default-share.jpg"
 
 enableSearch = true
 enableCodeCopy = false
