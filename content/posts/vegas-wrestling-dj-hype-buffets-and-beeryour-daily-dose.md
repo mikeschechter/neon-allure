@@ -4,8 +4,8 @@ date: 2026-04-08T04:00:51+00:00
 draft: false
 description: "Indie wrestling, DJ Pauly D, AMAs, poolside sports, Hawaiian buffets, chef events, cotton candy, GetOut Pass, and Arts District brews—Vegas in full swing."
 summary: "Vegas is buzzing with indie wrestling, mega DJ sets, fan-voted awards, poolside sports, and local eats. From chef-driven events to new sweets, there’s no off-night here."
-tags: ["wrestling", "music", "buffet", "beer", "vegas"]
-categories: ["entertainment", "food"]
+tags: ["wrestling", "music", "buffet", "beer"]
+categories: ["events"]
 ---
 
 ## Indie Wrestling Takes Center Stage
@@ -56,4 +56,3 @@ You’ll find [Hop Nuts Brewing](https://www.hopnutsbrewing.com/), Nevada Brew W
 
 ## Final Note
 
-Vegas doesn’t sleep, and neither do the events. If you blink, you miss something. Or someone spills beer on your shoes. Either way, it’s worth sticking around.
