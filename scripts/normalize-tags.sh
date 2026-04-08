@@ -183,7 +183,7 @@ process_file() {
   local tmpfile
   tmpfile=$(mktemp)
 
-  while IFS= read -r line; do
+  while IFS= read -r line || [[ -n "$line" ]]; do
     if [[ "$line" == "---" ]]; then
       frontmatter_count=$((frontmatter_count + 1))
       if [[ $frontmatter_count -eq 1 ]]; then
