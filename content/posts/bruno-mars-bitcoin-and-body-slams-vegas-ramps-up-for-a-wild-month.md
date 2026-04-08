@@ -46,3 +46,4 @@ Let’s break style for a second. This Roblox thing? Private invite, locked door
 
 ## Vegas: Still Doing Too Much, and That’s the Point
 
+The city has a parade for Bruno, a horror-themed wrestling match, and thousands of Bitcoiners about to explain things nobody asked for. There’s a show for every niche and a secret party you probably can’t get into. Next time someone says Vegas is “losing its edge,” just show them the week’s lineup. The chaos is the feature, not the bug.

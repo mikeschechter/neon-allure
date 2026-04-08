@@ -50,3 +50,5 @@ Casino news isn’t usually headline material unless you’re an executive, but 
 
 ## One Last Roll
 
+Food, music, wrestling, and business deals behind closed doors. That's Vegas: always a little chaotic, never boring, sometimes you leave smelling like tamales. If you're looking for a slow night, you're in the wrong city.
+

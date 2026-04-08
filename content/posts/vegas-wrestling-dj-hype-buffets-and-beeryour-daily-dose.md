@@ -56,3 +56,5 @@ You’ll find [Hop Nuts Brewing](https://www.hopnutsbrewing.com/), Nevada Brew W
 
 ## Final Note
 
+Vegas doesn't sleep, and neither do the events. If you blink, you miss something. Or someone spills beer on your shoes. Either way, it's worth sticking around.
+

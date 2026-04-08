@@ -68,3 +68,5 @@ Vegas keeps you guessing, but sometimes the best part is the thing nobody brags 
 
 ---
 
+The city is buzzing, the buffets are holding strong, and there's more value and spectacle than you can fit in one trip. Vegas isn't subtle, but it's always surprising.
+
