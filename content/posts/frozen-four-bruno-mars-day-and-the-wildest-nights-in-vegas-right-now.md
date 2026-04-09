@@ -4,8 +4,8 @@ date: 2026-04-09T04:00:44+00:00
 draft: false
 description: "Frozen Four hockey debuts in Vegas, Bruno Mars gets a parade, and the Strip goes off with K-pop, comedy, and over-the-top eats. Here’s what’s making noise."
 summary: "Vegas hosts the NCAA Frozen Four for the first time, celebrates Bruno Mars Day, and stacks the city with K-pop, poker, and DJ-fueled nightlife. If it’s happening, it’s probably happening here."
-tags: ["vegas", "events", "nightlife", "concerts", "sports"]
-categories: ["vegas", "events"]
+tags: ["nightlife", "concerts", "sports"]
+categories: ["events"]
 ---
 
 ## The NCAA Frozen Four Lands in the Desert
