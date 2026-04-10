@@ -4,8 +4,8 @@ date: 2026-04-10T04:00:51+00:00
 draft: false
 description: "Bruno Mars sets Vegas on fire with concerts and a Hello Kitty pop-up, while rock, country, and culinary events pull in crowds across the city. Here’s what everyone’s buzzing about."
 summary: "Bruno Mars and Hello Kitty take over the Strip, rockabilly and reggae festivals ignite the music scene, and Vegas food pop-ups lure the true eaters. It’s a week for fans who like their fun unpredictable."
-tags: ["bruno mars", "las vegas", "festivals", "food events", "hotel deals"]
-categories: ["events", "entertainment"]
+tags: ["bruno mars", "festivals", "food events", "hotel deals"]
+categories: ["events"]
 ---
 
 ## Bruno Mars Is Everywhere, and So Are the Lines
