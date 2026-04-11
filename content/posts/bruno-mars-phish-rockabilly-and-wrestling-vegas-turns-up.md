@@ -4,8 +4,8 @@ date: 2026-04-11T04:00:52+00:00
 draft: false
 description: "Bruno Mars kicks off his tour at Allegiant, Phish launches their Sphere residency, and Vegas delivers chaos: wrestling, rockabilly, culinary festivals, and pop-up surprises."
 summary: "Sold-out shows, immersive residencies, and wild festivals collide in Vegas. From Bruno Mars at Allegiant to rockabilly crowds and niche pop-ups, the city doesn’t let up."
-tags: ["vegas", "concerts", "festivals", "wrestling", "dining"]
-categories: ["events", "entertainment"]
+tags: ["concerts", "festivals", "wrestling", "dining"]
+categories: ["events"]
 ---
 
 ## Bruno Mars Ignites Allegiant: The Romantic Tour Launch
