@@ -4,8 +4,8 @@ date: 2026-04-12T04:01:06+00:00
 draft: false
 description: "Bruno Mars launches his romantic Allegiant Stadium tour, Vegas renames a street, country fest brings BBQ, and the city's entertainment lineup packs in music, comedy, and wrestling."
 summary: "Bruno Mars kicks off his tour with Vegas spectacle and a street named in his honor. Family-friendly festivals, legendary concerts, and stadium wrestling events heat up Sin City."
-tags: ["vegas", "music", "concerts", "festivals", "comedy"]
-categories: ["entertainment", "events"]
+tags: ["music", "concerts", "festivals", "comedy"]
+categories: ["events"]
 ---
 
 ## Bruno Mars Turns Allegiant Stadium Into Love Central
