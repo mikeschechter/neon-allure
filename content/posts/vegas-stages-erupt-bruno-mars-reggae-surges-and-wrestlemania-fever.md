@@ -4,8 +4,8 @@ date: 2026-04-13T04:00:43+00:00
 draft: false
 description: "Bruno Mars gets his own street, WrestleMania takes over Allegiant, and reggae collides with combat sports in a Vegas weekend that’s anything but subtle."
 summary: "Bruno Mars sparks Allegiant Stadium with more than just glitter, country fests lure cowboys of all ages, and WrestleMania fans turn Vegas into a wrestling mecca. Let’s sift through the confetti."
-tags: ["vegas", "concerts", "festivals", "wrestling", "residencies"]
-categories: ["events", "entertainment"]
+tags: ["concerts", "festivals", "wrestling", "residencies"]
+categories: ["events"]
 ---
 
 ## Bruno Mars, Zayn, and the Showbiz Arms Race
