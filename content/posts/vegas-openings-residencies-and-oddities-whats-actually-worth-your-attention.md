@@ -4,8 +4,8 @@ date: 2026-04-14T04:00:45+00:00
 draft: false
 description: "From chef-driven launches and wild residencies to immersive cinema and pop-ups, here’s what’s new and actually interesting in Las Vegas right now."
 summary: "Downtown’s dining scene shifts, Sphere gets weirder, concert crowds go wild, and the Strip’s all-inclusive deals get a reality check. The Vegas churn, dissected."
-tags: ["restaurants", "concerts", "wrestling", "resorts", "cinema", "pop-ups", "travel"]
-categories: ["vegas", "events"]
+tags: ["dining", "concerts", "wrestling", "resorts", "cinema", "pop ups", "travel"]
+categories: ["events"]
 ---
 
 ## Downtown Gets a New Taste: KJ’s Arrives, Contramar Hits the Strip
