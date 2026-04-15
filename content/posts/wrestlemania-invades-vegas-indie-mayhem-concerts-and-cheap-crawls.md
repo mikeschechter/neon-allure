@@ -4,8 +4,8 @@ date: 2026-04-15T04:00:49+00:00
 draft: false
 description: "WrestleMania storms Allegiant Stadium, indie wrestling floods the Strip, and Vegas nightlife explodes with concerts, Sphere teases, new attractions, and free fests."
 summary: "WrestleMania brings a wild week of wrestling and concerts to Vegas, but that's just the start. Cheap Freemont bar crawls, Sphere rumors, and new attractions fight for attention."
-tags: ["wrestlemania", "vegas", "concerts", "nightlife", "events"]
-categories: ["las vegas", "entertainment"]
+tags: ["wrestlemania", "concerts", "nightlife"]
+categories: ["events"]
 ---
 
 ## Wrestling’s Giant Footprint: WrestleMania and Indie Chaos
