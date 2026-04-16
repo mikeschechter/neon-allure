@@ -4,8 +4,8 @@ date: 2026-04-16T04:00:44+00:00
 draft: false
 description: "Vegas isn’t just for Strip-goers. From Shakespeare in the park to indie wrestling, pool parties, and crypto mixers, here’s what’s actually happening."
 summary: "Want the real Vegas? Dive into Shakespeare under the stars, fresh pool openings, indie wrestling chaos, and a side of crypto parties. We skipped the cliches, kept the weird."
-tags: ["vegas", "music", "wrestling", "pool", "crypto"]
-categories: ["events", "vegas"]
+tags: ["music", "wrestling", "pool", "crypto"]
+categories: ["events"]
 ---
 
 ## From Shakespeare’s Battle Cries to Chalk Art and Franky Perez
