@@ -4,8 +4,8 @@ date: 2026-04-17T04:00:41+00:00
 draft: false
 description: "A WrestleMania takeover, immersive Sphere shows, iconic concerts, and all-ages festivals collide for one of the most stacked weekends in recent Vegas memory."
 summary: "Vegas is buzzing with WrestleMania, Sphere mind-melts, legacy shows, and free rock festivals. Here’s what’s really happening behind the neon."
-tags: ["wrestlemania", "vegas", "sphere", "concerts", "dining"]
-categories: ["events", "entertainment"]
+tags: ["wrestlemania", "sphere", "concerts", "dining"]
+categories: ["events"]
 ---
 
 ## WrestleMania 42: The City Doesn’t Sleep, It Body Slams
