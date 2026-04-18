@@ -4,8 +4,8 @@ date: 2026-04-18T04:00:45+00:00
 draft: false
 description: "Phish’s Sphere residency rewires the city, WrestleMania 42 body-slams Allegiant, comedy and brunch spots pack out, and the Vegas pool scene returns."
 summary: "Phish’s Sphere residency delivers mind-melting visuals, WrestleMania 42 takes over Allegiant, and Vegas cuisine and pool parties keep the city buzzing. Dive in for a ground-level look at what’s making Vegas tick."
-tags: ["vegas", "phish", "wrestlemania", "concerts", "brunch"]
-categories: ["events", "vegas"]
+tags: ["phish", "wrestlemania", "concerts", "brunch"]
+categories: ["events"]
 ---
 
 ## Phish at Sphere: When Jam Bands Go Full IMAX
