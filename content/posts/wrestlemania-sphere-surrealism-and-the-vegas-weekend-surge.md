@@ -5,7 +5,7 @@ draft: false
 description: "WrestleMania 42 lights up Las Vegas with wild crowds, Sphere drops jaws, and the Strip buzzes with playoff hockey, new eats, and convention mayhem."
 summary: "WrestleMania 42 draws mega-crowds, Sphere delivers sensory overload, and Vegas gets even wilder as sports, music, and tech pros collide. Here’s what actually matters."
 tags: ["wrestlemania", "vegas events", "sphere", "dining", "golden knights"]
-categories: ["vegas", "events"]
+categories: ["events"]
 ---
 
 ## WrestleMania 42: When the Strip Goes Full Throttle
