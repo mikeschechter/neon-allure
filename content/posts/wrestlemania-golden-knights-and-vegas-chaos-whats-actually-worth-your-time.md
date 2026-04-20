@@ -4,8 +4,8 @@ date: 2026-04-20T04:00:42+00:00
 draft: false
 description: "WrestleMania 42, Golden Knights playoffs, festivals, and Vegas nightlife—here’s what’s hyped, what’s sleeper, and where locals are actually going."
 summary: "WrestleMania 42 packs Allegiant, the Knights light up the Strip, and Vegas pool parties get wild. Here’s your no-spin guide to what’s up right now."
-tags: ["vegas", "events", "wrestlemania", "golden knights", "nightlife"]
-categories: ["entertainment", "vegas"]
+tags: ["wrestlemania", "golden knights", "nightlife"]
+categories: ["events"]
 ---
 
 ## WrestleMania 42 Turned Allegiant Stadium Into a Roaring Furnace
