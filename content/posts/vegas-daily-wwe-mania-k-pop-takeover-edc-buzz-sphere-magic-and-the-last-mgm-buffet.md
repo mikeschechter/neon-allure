@@ -4,7 +4,7 @@ date: 2026-04-21T04:00:47+00:00
 draft: false
 description: "From WWE's electric Raw After Mania at T-Mobile to BTS lighting up the Strip, EDC's sold-out energy, and the MGM Grand Buffet's swan song, here's what's actually worth your attention in Vegas right now."
 summary: "WWE packs out T-Mobile, BTS launches a K-pop city takeover, EDC fans prep for mayhem, and Sphere keeps dazzling. Plus: MGM Grand Buffet's farewell and new casino milestones."
-tags: ["vegas", "wwe", "bts", "edc", "sphere"]
+tags: ["wwe", "bts", "edc", "sphere"]
 categories: ["events", "nightlife"]
 ---
 
