@@ -4,8 +4,8 @@ date: 2026-04-22T04:00:54+00:00
 draft: false
 description: "Phish lights up Sphere, Broadway returns to the Strip, EDC dominates, Chinatown grows, and Vegas Ballpark serves wild eats. Your daily insider rundown."
 summary: "From immersive music at Sphere to new Broadway shows, wild foodie trends, and free downtown fiestas, Vegas is turning up the volume and flavor. Get the scoop on what’s hot, what’s hyped, and what’s quietly genius right now."
-tags: ["vegas", "music", "dining", "events", "broadway"]
-categories: ["entertainment", "food"]
+tags: ["music", "dining", "broadway"]
+categories: ["events"]
 ---
 
 ## Sphere’s Opening Weekend: Phish Goes Full Technicolor
