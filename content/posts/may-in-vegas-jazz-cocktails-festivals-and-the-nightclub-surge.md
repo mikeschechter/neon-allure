@@ -4,8 +4,8 @@ date: 2026-04-23T04:00:59+00:00
 draft: false
 description: "Live jazz at Vic's, themed cocktails at Proper Eats, food festivals, Broadway shows, and nightlife chaos—Vegas in May is a buffet of excess and events."
 summary: "From supper clubs to mega food festivals and EDM sellouts, Vegas in May delivers jazz, cocktails, Broadway, and nightlife. The city's never been busier."
-tags: ["vegas", "food", "nightlife", "broadway", "festivals"]
-categories: ["events", "culture"]
+tags: ["dining", "nightlife", "broadway", "festivals"]
+categories: ["events"]
 ---
 
 ## The Jazz Supper Club Scene You Didn’t Know You Needed
