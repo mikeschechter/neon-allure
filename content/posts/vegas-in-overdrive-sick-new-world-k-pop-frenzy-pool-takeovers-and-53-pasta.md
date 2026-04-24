@@ -4,8 +4,8 @@ date: 2026-04-24T04:01:19+00:00
 draft: false
 description: "From Sick New World’s roaring crowds to K-pop sellouts, poolside comebacks, and a $53 bowl of pasta, Vegas is buzzing with hype and sticker shock."
 summary: "Sick New World packs the Festival Grounds, K-pop invades with Lisa’s sold-out run, the Strip serves up $100 burritos and $53 pasta, and pools are finally open. Vegas is back in the loudest, weirdest way."
-tags: ["las vegas", "music festivals", "nightlife", "dining", "events"]
-categories: ["vegas", "events"]
+tags: ["music festivals", "nightlife", "dining"]
+categories: ["events"]
 ---
 
 ## Sick New World: The Rock Circus Hits its Peak
