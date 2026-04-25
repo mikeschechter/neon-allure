@@ -4,8 +4,8 @@ date: 2026-04-25T04:00:56+00:00
 draft: false
 description: "Phish lights up Sphere, LVL UP EXPO dishes tech hype, Strip food prices get roasted, and Cinco de Mayo brings $5 margaritas. All the fresh Vegas hits."
 summary: "Phish’s Sphere residency sets the bar, LVL UP EXPO throws down on gaming, and Vegas debates if $52 pasta is worth the pain. New festivals, sports, and $5 margaritas."
-tags: ["vegas", "live music", "food", "sports", "festivals"]
-categories: ["events", "culture"]
+tags: ["live music", "dining", "sports", "festivals"]
+categories: ["events"]
 ---
 
 ## Sphere’s Phish Residency: Visuals, Vibes, and Jam Band Mania
